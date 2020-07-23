@@ -10,15 +10,14 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 5. Expolre and analyze data and outliers
 6. Outliers Treatment
 7. Machine Learning Model Building :
-   1. Ordered sub-list
-   2. Cross-Validation
-   3. Hyper-parameter Tuning
-   4. Linear Regressions
-   5. SVM
-   6. Decion Tree Regressor
-   7. Random Forest Regressor
-8. Deep Learning : Building ANN
-9. Choose the best model
+   1. Cross-Validation
+   2. Hyper-parameter Tuning
+   3. Linear Regressions
+   4. SVM
+   5. Decion Tree Regressor
+   6. Random Forest Regressor
+7. Deep Learning : Building ANN
+8. Choose the best model
 
 ![](/housingPrices_corelation.png)
 
