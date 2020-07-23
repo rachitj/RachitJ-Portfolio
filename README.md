@@ -2,7 +2,7 @@
 
 ## [Project 1: Housing-Prices-Prediction](https://github.com/rachitj/Housing-Prices-Prediction)
 With 79 explanatory variables describing (almost) every aspect of residential homes dataset, the objective isto predict the final price of each home.
-# Steps
+### Steps
 1. Made necessary changes in code for Google Colab usage
 2. Import the training and test dataset
 3. Merge the test and training datasets
