@@ -31,5 +31,15 @@ The focus of our project was to analyze the comparison of the four units namely 
 * Analysis : I evaluated variables such as turnover, HCAHPS scores, shift length and used our visit to the hospital and comments from nurses and various workers to piece together a picture of what is going on with Bon Secours.
 * Performed Data mining, Feture -Engineering, Multi-variance Regression Analysis, Hypothesis test, Control charts, Forecasting
 * Tools and Technologies: R, Tableau, SQL,MS Project, Excel
+* Note : As this is my realtime prject in a professional work environment, I am unable to post any code due to confidentiality issues.
+
+
+## Project 4 : Lean six sigma for package pickup and delivery company
+*Project business Case: A package pickup and delivery company which OUTSOURCES its ground operations to a third party. Inefficiency in processes and miscommunication leads rebates and idle time costs. Gross margin needs to be improved to sustain operations and for growth in future
+*Problem Statement: Identify causes behind current inefficiencies (rebate and idle cost) impacting gross margin.
+* Goal: To suggest improvements in the system for achieving at least 30% profit before tax with minimum errors and defects
+* Techniques/Tools Used: Multi-variance Regression Analysis, Control Charts, CTQ, SIPOC, Value Stream Map and Future State, Sigma Measurement, Failure Mode and Effects Analysis (FMEA), Pugh Matrix, Root Cause Analysis, Poke Yoke, Data Collection, Data Mining, Data Analysis, Financial Analysis
+* Note : As this is my realtime prject in a professional work environment, I am unable to post any code due to confidentiality issues.
+
 
 
