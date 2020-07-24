@@ -5,7 +5,7 @@ Connecting dots to show how, why and when a problem has occurred, and providing 
 
 # Passion Projects
 ## [Project 1: Housing-Prices-Prediction](https://github.com/rachitj/Housing-Prices-Prediction)
-With 79 explanatory variables describing (almost) every aspect of residential homes dataset, the objective isto predict the final price of each home.
+With 79 explanatory variables describing (almost) every aspect of residential homes dataset, the objective isto predict the final price of each home. [Plese click here for code](https://github.com/rachitj/Housing-Prices-Prediction)
 ### Steps
 * Performed data analysis and feature engineering
 * Expolred and analyze data and outliers
