@@ -16,12 +16,20 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 ![](/housingPrices_corelation.png)
 
 
-## Project 2: Power BI Model for Regional Sales Managers and Decision Makers
+## Project 2 : Power BI Model for Regional Sales Managers and Decision Makers
 This model provided real time information such as Products and Customers Segmentation, Sales and Profit Metrics, Churn (Revenue and Customers) as well as Forecasts.
 * Created data pipelines in SQL and Data cubes
 * Wrote DAX in Power Query
 * Created Dasbhboards for Sales and Churn Metrics
 * Tools and Technologies: Power Bi, MS SQL Server, DAX
 * Note : As this is my realtime prject in a professional work environment, I am unable to post any code due to confidentiality issues.
+
+
+## Project 3 : Operation Analytics for a Healthcare Provider
+The focus of our project was to analyze the comparison of the four units namely -MBU, Medical, Surgical and Telemetry for Bon Secours in Norfolk, Virginia.
+* Objective : To Provide analysis and findings for each unit, a brief summary for each unit to look at areas of improvement and key insights, and the overall recommendations
+* Analysis : I evaluated variables such as turnover, HCAHPS scores, shift length and used our visit to the hospital and comments from nurses and various workers to piece together a picture of what is going on with Bon Secours.
+* Performed Data mining, Feture -Engineering, Multi-variance Regression Analysis, Hypothesis test, Control charts, Forecasting
+* Tools and Technologies: R, Tableau, SQL,MS Project, Excel
 
 
