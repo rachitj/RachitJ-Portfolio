@@ -1,5 +1,5 @@
 # About Me
-![](/housingPrices_corelation.png) Hi , I am Rachit Jauhari. I am a Data Scientist.
+![](/linkedin%20img.jpg) Hi , I am Rachit Jauhari. I am a Data Scientist.
 
 ## [Project 1: Housing-Prices-Prediction](https://github.com/rachitj/Housing-Prices-Prediction)
 With 79 explanatory variables describing (almost) every aspect of residential homes dataset, the objective isto predict the final price of each home.
