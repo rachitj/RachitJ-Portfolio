@@ -15,3 +15,13 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 
 ![](/housingPrices_corelation.png)
 
+
+##Project 2: Power BI Model for Regional Sales Managers and Decision Makers
+This model provided real time information such as Products and Customers Segmentation, Sales and Profit Metrics, Churn (Revenue and Customers) as well as Forecasts.
+* Created data pipelines in SQL and Data cubes
+* Wrote DAX in Power Query
+* Created Dasbhboards for Sales and Churn Metrics
+* Tools and Technologies: Power Bi, MS SQL Server, DAX
+* Note : As this is my realtime prject in a professional work environment, I am unable to post any code due to confidentiality issues.
+
+
