@@ -4,7 +4,7 @@ I am professional with 8 years of extensive experience in multiple domains and i
 Connecting dots to show how, why and when a problem has occurred, and providing strategic solutions for these challenges is my asset.
 
 # Passion Projects
-## [Project 1: Housing-Prices-Prediction](https://github.com/rachitj/Housing-Prices-Prediction)
+## Project 1: Housing-Prices-Prediction
 With 79 explanatory variables describing (almost) every aspect of residential homes dataset, the objective isto predict the final price of each home. [Plese click here for code](https://github.com/rachitj/Housing-Prices-Prediction)
 ### Steps
 * Performed data analysis and feature engineering
