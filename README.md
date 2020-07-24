@@ -8,7 +8,7 @@ Connecting dots to show how, why and when a problem has occurred, and providing 
 With 79 explanatory variables describing (almost) every aspect of residential homes dataset, the objective isto predict the final price of each home. [Please click here for code](https://github.com/rachitj/Housing-Prices-Prediction)
 ### Steps
 * Performed data analysis and feature engineering
-* Expolred and analyze data and outliers
+* Explored and analyzed data and outliers
 * Machine Learning Model Building :Cross-Validation, Hyper-parameter Tuning, Linear Regression, SVM, Decion Tree Regressor, Random Forest Regressor
 * Deep Learning : Building ANN
 * Choose the best model 
