@@ -1,6 +1,7 @@
 # About Me
 Hi , I am Rachit Jauhari. I am a Data Scientist. This is my protfolio where I am listing my passion Data Science projects. 
 I am professional with 8 years of extensive experience in multiple domains and industries such as E-Commerce, Finance, Shipping, Healthcare and Online Media Information Services.
+
 Connecting dots to show how, why and when a problem has occurred, and providing strategic solutions for these challenges is my asset.
 
 # Passion Projects
