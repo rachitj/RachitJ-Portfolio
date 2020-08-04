@@ -11,7 +11,7 @@ Connecting dots to show how, why and when a problem has occurred, and providing 
 * ETL: SSAS/SSIS/SSRS, MS Excel/VBA
 * Big Data Tools/Technologies: PySpark, Scala
 * Machine Learning: 
-### Regression : Linear Regression, Decision Tree Regression, Support Vector Regression, Random Forest Regression, XG Boost
+  * Regression : Linear Regression, Decision Tree Regression, Support Vector Regression, Random Forest Regression, XG Boost
 ### Classification : Logistic Regression, K-Nearest Neighbors(KNN),  Support Vector Machine(SVM),Kernel SVM, Naive Bayes, DEcision Tree Classification, Random Forest Classification
 ### Clustering : K-means, Hierarchical
 ### Association Based Learning : Apriori, Eclat
