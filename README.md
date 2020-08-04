@@ -12,13 +12,13 @@ Connecting dots to show how, why and when a problem has occurred, and providing 
 * Big Data Tools/Technologies: PySpark, Scala
 * Machine Learning: 
   * Regression : Linear Regression, Decision Tree Regression, Support Vector Regression, Random Forest Regression, XG Boost
-### Classification : Logistic Regression, K-Nearest Neighbors(KNN),  Support Vector Machine(SVM),Kernel SVM, Naive Bayes, DEcision Tree Classification, Random Forest Classification
-### Clustering : K-means, Hierarchical
-### Association Based Learning : Apriori, Eclat
-### Reinforcement Learning : Upper Confidence Bound, Thompson Sampling
-### Natural Language Processing
-### Dimensionality Reduction : Principal Component Analysis (PCA), Linear Discriminant Analysis( LDA), Kernel PCA
-### Model Selection : K-Fold Cross Validation, Grid Search
+  * Classification : Logistic Regression, K-Nearest Neighbors(KNN),  Support Vector Machine(SVM),Kernel SVM, Naive Bayes, DEcision Tree Classification, Random Forest Classification
+  * Clustering : K-means, Hierarchical
+  * Association Based Learning : Apriori, Eclat
+  * Reinforcement Learning : Upper Confidence Bound, Thompson Sampling
+  * Natural Language Processing
+  * Dimensionality Reduction : Principal Component Analysis (PCA), Linear Discriminant Analysis( LDA), Kernel PCA
+  * Model Selection : K-Fold Cross Validation, Grid Search
 
 # Passion Projects
 ## Project 1: Housing-Prices-Prediction
