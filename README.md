@@ -4,7 +4,6 @@ I am professional with 8 years of extensive experience in multiple domains and i
 
 Connecting dots to show how, why and when a problem has occurred, and providing strategic solutions for these challenges is my asset.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachitj&layout=compact)](https://github.com/rachitj)
 
 # Core Comptetencies : 
 * Database: SQL Server 2014/2012/2008/2005, PostGreSQL, MS Access
