@@ -19,12 +19,12 @@ Connecting dots to show how, why and when a problem has occurred, and providing 
   * Association Based Learning : Apriori, Eclat
   * Reinforcement Learning : Upper Confidence Bound, Thompson Sampling
   * Natural Language Processing
-  * Dimensionality Reduction : Principal Component Analysis (PCA), Linear Discriminant Analysis( LDA), Kernel PCA
+  * Dimensionality Reduction : Principal Component Analysis (PCA), Linear Discriminant Analysis(LDA), Kernel PCA
   * Model Selection : K-Fold Cross Validation, Grid Search
 
 # Passion Projects
 ## Project 1: Housing-Prices-Prediction
-With 79 explanatory variables describing (almost) every aspect of residential homes dataset, the objective isto predict the final price of each home. [Please click here for code](https://github.com/rachitj/Housing-Prices-Prediction)
+With 79 explanatory variables describing (almost) every aspect of residential homes dataset, the objective isto predict the final price of each home. [Please click here for github repository](https://github.com/rachitj/Housing-Prices-Prediction)
 ### Steps
 * Performed data analysis and feature engineering
 * Explored and analyzed data and outliers
