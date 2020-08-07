@@ -1,8 +1,8 @@
 # About Me
 Hi , I am Rachit Jauhari. I am a Data Scientist. This is my portfolio where I am listing my Data Science passion projects. 
-I am professional with 8 years of extensive experience in multiple domains and industries such as E-Commerce, Finance, Shipping, Healthcare and Online Media Information Services.
-
+I have worked as a Senior Data Analyst in my recent roles where I worked closely with technology and Business. 
 Connecting dots to show how, why and when a problem has occurred, and providing strategic solutions for these challenges is my asset.
+My goal for 2020 is to contribute more to Github open source projects.
 
 
 # Core Comptetencies : 
