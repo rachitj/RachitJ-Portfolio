@@ -50,7 +50,6 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 * [Q1 Analysis Tableau Link](https://public.tableau.com/profile/rachitjauhari#!/vizhome/e-commerce_analysis/Q1Dashboard?publish=yes)
 * [Monthly Analysis Tableau Link](https://public.tableau.com/profile/rachitjauhari#!/vizhome/e-commerce_analysisMonthly/MonthlyDashboard?publish=yes)
 ![](https://github.com/rachitj/RachitJ-Portfolio/blob/master/q1_analysis.png)
-
 ![](https://github.com/rachitj/RachitJ-Portfolio/blob/master/monthly_analysis.png)
 
 ## Project 3 : Operation Analytics for a Healthcare Provider
