@@ -34,15 +34,21 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 
 ![](/housingPrices_corelation.png)
 
+## Project 2 : E-commerce Orders Revenue Analysis
+"Company X" sells cannabis online via their e-commerce Shopify platform. To fulfill their reporting requirements, the Company X Finance department asks you to create a report so they can process their Q1 financial results.
 
-## Project 2 : Power BI Model for Regional Sales Managers and Decision Makers
-This model provided real time information such as Products and Customers Segmentation, Sales and Profit Metrics, Churn (Revenue and Customers) as well as Forecasts.
-* Created data pipelines in SQL and Data cubes
-* Wrote DAX in Power Query
-* Created Dasbhboards for Sales and Churn Metrics
-* Tools and Technologies: Power Bi, MS SQL Server, DAX
-* Note : As this is my realtime prject in a professional work environment, I am unable to post any code due to confidentiality issues.
+### Goal: 
+* To provide a dashboard to the Finance department about the sales results for Q1.
+* Analyze the data and present any insights
+* Automate the code and structure of data
 
+#### Step 1 : Get the relevant orders data from order.json file in data_collection.ipynb file
+#### Step 2 : Get the relevant exchange rates data from api in data_collection.ipynb file
+#### Step 3 : Export the data to SQL tables in data_models.ipynb file
+#### Step 4 : Creation of fact_sales in SQL Server 2019
+#### Step 5 : Create interactive tableau dashboards
+* [Q1 Analysis Tableau Link](https://public.tableau.com/profile/rachitjauhari#!/vizhome/e-commerce_analysis/Q1Dashboard?publish=yes)
+* [Monthly Analysis Tableau Link](https://public.tableau.com/profile/rachitjauhari#!/vizhome/e-commerce_analysisMonthly/MonthlyDashboard?publish=yes)
 
 ## Project 3 : Operation Analytics for a Healthcare Provider
 The focus of our project was to analyze the comparison of the four units namely -MBU, Medical, Surgical and Telemetry for Bon Secours in Norfolk, Virginia.
@@ -59,6 +65,14 @@ The focus of our project was to analyze the comparison of the four units namely 
 * Goal: To suggest improvements in the system for achieving at least 30% profit before tax with minimum errors and defects
 * Techniques Used: Multi-variance Regression Analysis, Control Charts, CTQ, SIPOC, Value Stream Map and Future State, Sigma Measurement, Failure Mode and Effects Analysis (FMEA), Pugh Matrix, Root Cause Analysis, Poke Yoke, Data Collection, Data Mining, Data Analysis, Financial Analysis
 * Tools : Python, Microsoft Excel
+* Note : As this is my realtime prject in a professional work environment, I am unable to post any code due to confidentiality issues.
+
+## Project 5 : Power BI Model for Regional Sales Managers and Decision Makers
+This model provided real time information such as Products and Customers Segmentation, Sales and Profit Metrics, Churn (Revenue and Customers) as well as Forecasts.
+* Created data pipelines in SQL and Data cubes
+* Wrote DAX in Power Query
+* Created Dasbhboards for Sales and Churn Metrics
+* Tools and Technologies: Power Bi, MS SQL Server, DAX
 * Note : As this is my realtime prject in a professional work environment, I am unable to post any code due to confidentiality issues.
 
 
