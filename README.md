@@ -51,6 +51,7 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 * [Monthly Analysis Tableau Link](https://public.tableau.com/profile/rachitjauhari#!/vizhome/e-commerce_analysisMonthly/MonthlyDashboard?publish=yes)
 ![](https://github.com/rachitj/RachitJ-Portfolio/blob/master/q1_analysis.png)
 
+![](https://github.com/rachitj/RachitJ-Portfolio/blob/master/monthly_analysis.png)
 
 ## Project 3 : Operation Analytics for a Healthcare Provider
 The focus of our project was to analyze the comparison of the four units namely -MBU, Medical, Surgical and Telemetry for Bon Secours in Norfolk, Virginia.
