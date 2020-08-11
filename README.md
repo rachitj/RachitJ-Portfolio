@@ -35,7 +35,7 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 ![](/housingPrices_corelation.png)
 
 ## Project 2 : E-commerce Orders Revenue Analysis
-"Company X" sells cannabis online via their e-commerce Shopify platform. To fulfill their reporting requirements, the Company X Finance department asks you to create a report so they can process their Q1 financial results.
+"Company X" sells cannabis online via their e-commerce Shopify platform. To fulfill their reporting requirements, the Company X Finance department asks you to create a report so they can process their Q1 financial results. [Please click here for github repository](https://github.com/rachitj/ecommerce_transactions_project)
 
 ### Goal: 
 * To provide a dashboard to the Finance department about the sales results for Q1.
