@@ -39,10 +39,10 @@ This is an ongoing project....
 
 ![](/data-science.png)
 
-## Description
+### Description
 Analytics is one of the most exciting roles in current times. Using data to tell stories is a huge plus for companies. There are different kind of roles in analytics field such as Data Analyst, Data Scientist, Machine Learning Engineer, Data Engineer etc. As their job-roles and responsibities vary, their salary also varies. Though all these roles require expertise in technologies like R, Python, SQL, Excel, Machine Learning, Deep Learning, API development, Visualization( Tableau and Power BI), Web Scraping etc. The salaries might also vary based on location and several other factors. In this project, we will explore the analytics world of Canada. [Please click here for github repository](https://github.com/rachitj/ds_salary_project)
 
-## Problem Statement 
+### Problem Statement 
 
 * Create an automated tool in python that scrapes the salary and company data from glassdoor. Clean it and store it in dataframes and csv file.
 * Perform Exploratory Data Analysis on the dataset. Check if the data makes sense. Find the relationships and outliers  in our dataset. Perform Feture Engineering if required.
