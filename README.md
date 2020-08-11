@@ -34,7 +34,27 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 
 ![](/housingPrices_corelation.png)
 
-## Project 2 : E-commerce Orders Revenue Analysis
+## Project 2 : Salary Predictor for Analytics Professionals in Canada
+This is an ongoing project....
+
+![](https://github.com/rachitj/ds_salary_project/blob/data_eda/data-science.png)
+
+## Description
+Analytics is one of the most exciting roles in current times. Using data to tell stories is a huge plus for companies. There are different kind of roles in analytics field such as Data Analyst, Data Scientist, Machine Learning Engineer, Data Engineer etc. As their job-roles and responsibities vary, their salary also varies. Though all these roles require expertise in technologies like R, Python, SQL, Excel, Machine Learning, Deep Learning, API development, Visualization( Tableau and Power BI), Web Scraping etc. The salaries might also vary based on location and several other factors. In this project, we will explore the analytics world of Canada.
+
+## Objective
+Create an automated tool that helps analytics professional negotiate their salary.
+
+## Problem Statement 
+
+* Create an automated tool in python that scrapes the salary and company data from glassdoor. Clean it and store it in dataframes and csv file.
+* Perform Exploratory Data Analysis on the dataset. Check if the data makes sense. Find the relationships and outliers  in our dataset. Perform Feture Engineering if required.
+* Perform Machine Learning Model Building. Create a model to predict salares and find important features that help in explaining the data and relationships. Perform k- Fold Cross Validations and Hyperparameter tuning. Use Mean Absolute Error for scoring.
+* Perform Deep Learning Model Building and check if performs better than the machine learning models. Use Google Colab and its TPUs for Deep Learning.
+* Create API using Flask for the final Model
+* Deploy this model
+
+## Project 3 : E-commerce Orders Revenue Analysis
 "Company X" sells cannabis online via their e-commerce Shopify platform. To fulfill their reporting requirements, the Company X Finance department asks you to create a report so they can process their Q1 financial results. [Please click here for github repository](https://github.com/rachitj/ecommerce_transactions_project)
 
 ### Goal: 
@@ -54,7 +74,7 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 ![](https://github.com/rachitj/RachitJ-Portfolio/blob/master/q1_analysis.png)
 ![](https://github.com/rachitj/RachitJ-Portfolio/blob/master/monthly_analysis.png)
 
-## Project 3 : Operation Analytics for a Healthcare Provider
+## Project 4 : Operation Analytics for a Healthcare Provider
 The focus of our project was to analyze the comparison of the four units namely -MBU, Medical, Surgical and Telemetry for Bon Secours in Norfolk, Virginia.
 * Objective : To Provide analysis and findings for each unit, a brief summary for each unit to look at areas of improvement and key insights, and the overall recommendations
 * Analysis : I evaluated variables such as turnover, HCAHPS scores, shift length and used our visit to the hospital and comments from nurses and various workers to piece together a picture of what is going on with Bon Secours.
@@ -63,7 +83,7 @@ The focus of our project was to analyze the comparison of the four units namely 
 * Note : As this is my realtime prject in a professional work environment, I am unable to post any code due to confidentiality issues.
 
 
-## Project 4 : Lean six sigma for package pickup and delivery company
+## Project 5 : Lean six sigma for package pickup and delivery company
 * Project business Case: A package pickup and delivery company which OUTSOURCES its ground operations to a third party. Inefficiency in processes and miscommunication leads rebates and idle time costs. Gross margin needs to be improved to sustain operations and for growth in future
 * Problem Statement: Identify causes behind current inefficiencies (rebate and idle cost) impacting gross margin.
 * Goal: To suggest improvements in the system for achieving at least 30% profit before tax with minimum errors and defects
@@ -71,7 +91,7 @@ The focus of our project was to analyze the comparison of the four units namely 
 * Tools : Python, Microsoft Excel
 * Note : As this is my realtime prject in a professional work environment, I am unable to post any code due to confidentiality issues.
 
-## Project 5 : Power BI Model for Regional Sales Managers and Decision Makers
+## Project 6 : Power BI Model for Regional Sales Managers and Decision Makers
 This model provided real time information such as Products and Customers Segmentation, Sales and Profit Metrics, Churn (Revenue and Customers) as well as Forecasts.
 * Created data pipelines in SQL and Data cubes
 * Wrote DAX in Power Query
