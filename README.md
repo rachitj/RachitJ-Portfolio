@@ -37,7 +37,7 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 ## Project 2 : Salary Predictor for Analytics Professionals in Canada
 This is an ongoing project....
 
-![](https://github.com/rachitj/RachitJ-Portfolio/blob/master/data-science.png)
+![](/data-science.png)
 
 ## Description
 Analytics is one of the most exciting roles in current times. Using data to tell stories is a huge plus for companies. There are different kind of roles in analytics field such as Data Analyst, Data Scientist, Machine Learning Engineer, Data Engineer etc. As their job-roles and responsibities vary, their salary also varies. Though all these roles require expertise in technologies like R, Python, SQL, Excel, Machine Learning, Deep Learning, API development, Visualization( Tableau and Power BI), Web Scraping etc. The salaries might also vary based on location and several other factors. In this project, we will explore the analytics world of Canada. [Please click here for github repository](https://github.com/rachitj/ds_salary_project)
@@ -71,8 +71,8 @@ Create an automated tool that helps analytics professional negotiate their salar
 * [Q1 Analysis Tableau Link](https://public.tableau.com/profile/rachitjauhari#!/vizhome/e-commerce_analysis/Q1Dashboard?publish=yes)
 * [Monthly Analysis Tableau Link](https://public.tableau.com/profile/rachitjauhari#!/vizhome/e-commerce_analysisMonthly/MonthlyDashboard?publish=yes)
 
-![](https://github.com/rachitj/RachitJ-Portfolio/blob/master/q1_analysis.png)
-![](https://github.com/rachitj/RachitJ-Portfolio/blob/master/monthly_analysis.png)
+![](/q1_analysis.png)
+![](/monthly_analysis.png)
 
 ## Project 4 : Operation Analytics for a Healthcare Provider
 The focus of our project was to analyze the comparison of the four units namely -MBU, Medical, Surgical and Telemetry for Bon Secours in Norfolk, Virginia.
