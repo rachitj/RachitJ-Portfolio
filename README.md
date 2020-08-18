@@ -71,13 +71,21 @@ Analytics is one of the most exciting roles in current times. Using data to tell
 ![](/q1_analysis.png)
 ![](/monthly_analysis.png)
 
-## Project 4 : Operation Analytics for a Healthcare Provider
+## Project 4: Operation Analytics for a Healthcare Provider
 The focus of our project was to analyze the comparison of the four units namely -MBU, Medical, Surgical and Telemetry for Bon Secours in Norfolk, Virginia.
-* Objective : To Provide analysis and findings for each unit, a brief summary for each unit to look at areas of improvement and key insights, and the overall recommendations
-* Analysis : I evaluated variables such as turnover, HCAHPS scores, shift length and used our visit to the hospital and comments from nurses and various workers to piece together a picture of what is going on with Bon Secours.
-* Performed Data mining, Feture -Engineering, Multi-variance Regression Analysis, Hypothesis test, Control charts, Forecasting
-* Tools and Technologies: R, Tableau, SQL,MS Project, Excel
-* Note : As this is my realtime prject in a professional work environment, I am unable to post any code due to confidentiality issues.
+
+### Objective:
+To Provide analysis and findings for each unit, a brief summary for each unit to look at areas of improvement and key insights, and the overall recommendations
+
+### Analysis:
+I evaluated variables such as turnover, HCAHPS scores, shift length and used our visit to the hospital and comments from nurses and various workers to piece together a picture of what is going on with Bon Secours.
+
+### Steps:
+* Performed Data mining, Feature -Engineering, Multi-variance Regression Analysis, Hypothesis test, Control charts, Forecasting
+
+* Tools and Technologies: R, Tableau, SQL, MS Project, Excel
+* Note: As this is my real-time project in a professional work environment, I am unable to post any code due to confidentiality issues.
+
 
 
 ## Project 5 : Lean six sigma for package pickup and delivery company
