@@ -94,15 +94,15 @@ I evaluated variables such as turnover, HCAHPS scores, shift length and used our
 * Goal: To suggest improvements in the system for achieving at least 30% profit before tax with minimum errors and defects
 * Techniques Used: Multi-variance Regression Analysis, Control Charts, CTQ, SIPOC, Value Stream Map and Future State, Sigma Measurement, Failure Mode and Effects Analysis (FMEA), Pugh Matrix, Root Cause Analysis, Poke Yoke, Data Collection, Data Mining, Data Analysis, Financial Analysis
 * Tools : Python, Microsoft Excel
-* Note : As this is my realtime prject in a professional work environment, I am unable to post any code due to confidentiality issues.
+* Note : As this is my realtime project in a professional work environment, I am unable to post any code due to confidentiality issues.
 
-## Project 6 : Power BI Model for Regional Sales Managers and Decision Makers
+## Project 6: Power BI Model for Regional Sales Managers and Decision Makers
 This model provided real time information such as Products and Customers Segmentation, Sales and Profit Metrics, Churn (Revenue and Customers) as well as Forecasts.
 * Created data pipelines in SQL and Data cubes
 * Wrote DAX in Power Query
-* Created Dasbhboards for Sales and Churn Metrics
+* Created Dashboards for Sales and Churn Metrics
 * Tools and Technologies: Power Bi, MS SQL Server, DAX
-* Note : As this is my realtime prject in a professional work environment, I am unable to post any code due to confidentiality issues.
+* Note: As this is my real-time project in a professional work environment, I am unable to post any code due to confidentiality issues
 
 
 
