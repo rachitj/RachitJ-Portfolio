@@ -1,16 +1,21 @@
 # About Me
-Hi , I am Rachit Jauhari. I am a Data Scientist. This is my portfolio where I am listing my Data Science passion projects. 
-I have worked as a Senior Data Analyst in my recent roles where I worked closely with technology and Business. 
-Connecting dots to show how, why and when a problem has occurred, and providing strategic solutions for these challenges is my asset.
-My goal for 2020 is to contribute more to Github open source projects.
+Hi , I am Rachit Jauhari. I am a Senior Data Engineer. This is my portfolio where I am listing my Data Engineering passion projects. 
+I have worked as a Senior Data Engineer in my recent roles where I worked closely with technology and Business. 
+Connecting dots to show how, why and when a problem has occurred, and providing strategic and automated solutions for these challenges is my asset.
+My goal for 2023 is to contribute more to Github open source projects.
 
 
 # Core Comptetencies : 
-* Database: SQL Server 2014/2012/2008/2005, PostGreSQL, MS Access
-* Programming: R, SAS, Python [Pandas, NumPy, Matplotlib, Seaborn, SciKit-Learn, SciPy, Keras] 
+* Database: SQL Server, PostGreSQL, MS Access
+* Programming: R, Python, Scala, VBA
+* ETL Processing: Microsoft SSIS, Azure Data Factory
+* Cloud: Azure SQL, Azure Data Factory, Azure Synapse, Big Query
 * Business Intelligence: Tableau, Power BI, QlikView
 * ETL: SSAS/SSIS/SSRS, MS Excel/VBA
-* Big Data Tools/Technologies: PySpark, Scala
+* Data Storage: Data Lake, Data Warehouse
+* Big Data Tools/Technologies: Hive, Hadoop, Spark
+* DevOps : Docker
+* Version Control ; Github, Bitbucket
 * Web Scraping : Selenium
 * Machine Learning: 
   * Regression : Linear Regression, Decision Tree Regression, Support Vector Regression, Random Forest Regression, XG Boost
