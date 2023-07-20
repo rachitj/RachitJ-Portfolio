@@ -27,7 +27,8 @@ My goal for 2023 is to contribute more to Github open source projects.
   * Dimensionality Reduction : Principal Component Analysis (PCA), Linear Discriminant Analysis(LDA), Kernel PCA
   * Model Selection : K-Fold Cross Validation, Grid Search
 
-# Passion Projects
+# Passion Projects : Data Engineering
+# Passion Projects : Data Science
 ## Project 1: Housing-Prices-Prediction
 With 79 explanatory variables describing (almost) every aspect of residential homes dataset, the objective isto predict the final price of each home. [Please click here for github repository](https://github.com/rachitj/Housing-Prices-Prediction)
 ### Steps
@@ -40,7 +41,6 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 ![](/housingPrices_corelation.png)
 
 ## Project 2 : Salary Predictor for Analytics Professionals in Canada
-This is an ongoing project....
 
 ![](/data-science.png)
 
@@ -91,17 +91,7 @@ I evaluated variables such as turnover, HCAHPS scores, shift length and used our
 * Tools and Technologies: R, Tableau, SQL, MS Project, Excel
 * Note: As this is my real-time project in a professional work environment, I am unable to post any code due to confidentiality issues.
 
-
-
-## Project 5 : Lean six sigma for package pickup and delivery company
-* Project business Case: A package pickup and delivery company which OUTSOURCES its ground operations to a third party. Inefficiency in processes and miscommunication leads rebates and idle time costs. Gross margin needs to be improved to sustain operations and for growth in future
-* Problem Statement: Identify causes behind current inefficiencies (rebate and idle cost) impacting gross margin.
-* Goal: To suggest improvements in the system for achieving at least 30% profit before tax with minimum errors and defects
-* Techniques Used: Multi-variance Regression Analysis, Control Charts, CTQ, SIPOC, Value Stream Map and Future State, Sigma Measurement, Failure Mode and Effects Analysis (FMEA), Pugh Matrix, Root Cause Analysis, Poke Yoke, Data Collection, Data Mining, Data Analysis, Financial Analysis
-* Tools : Python, Microsoft Excel
-* Note : As this is my realtime project in a professional work environment, I am unable to post any code due to confidentiality issues.
-
-## Project 6: Power BI Model for Regional Sales Managers and Decision Makers
+## Project 5: Power BI Model for Regional Sales Managers and Decision Makers
 This model provided real time information such as Products and Customers Segmentation, Sales and Profit Metrics, Churn (Revenue and Customers) as well as Forecasts.
 * Created data pipelines in SQL and Data cubes
 * Wrote DAX in Power Query
