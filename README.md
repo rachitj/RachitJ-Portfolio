@@ -32,6 +32,12 @@ My goal for 2025 is to contribute more to Github open source projects.
 This project uses Terraform to automate the deployment of resources on Azure, including setting up a budget alert to monitor and control Azure spending. It's designed to provide a simple and efficient way to manage and provision cloud infrastructure.
 [Please click here for github repository](https://github.com/rachitj/cicd_terraform_azure)
 
+## Project 2 :NYC CITYBIKE ANALYSIS
+The objective of this project is to do a deep dive analysis on citybike data to come up with solutions and projected revenue impact, or alternatively investigate ways to reduce expenses.
+[Please click here for github repository](https://github.com/rachitj/nyc_citybike_analysyis)
+
+
+
 # Passion Projects : Data Science
 ## Project 1: Housing-Prices-Prediction
 With 79 explanatory variables describing (almost) every aspect of residential homes dataset, the objective isto predict the final price of each home. [Please click here for github repository](https://github.com/rachitj/Housing-Prices-Prediction)
