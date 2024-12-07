@@ -28,6 +28,10 @@ My goal for 2023 is to contribute more to Github open source projects.
   * Model Selection : K-Fold Cross Validation, Grid Search
 
 # Passion Projects : Data Engineering
+## Project 1 : Terraform Azure Deployment with Budget Alert
+This project uses Terraform to automate the deployment of resources on Azure, including setting up a budget alert to monitor and control Azure spending. It's designed to provide a simple and efficient way to manage and provision cloud infrastructure.
+[Please click here for github repository](https://github.com/rachitj/cicd_terraform_azure)
+
 # Passion Projects : Data Science
 ## Project 1: Housing-Prices-Prediction
 With 79 explanatory variables describing (almost) every aspect of residential homes dataset, the objective isto predict the final price of each home. [Please click here for github repository](https://github.com/rachitj/Housing-Prices-Prediction)
