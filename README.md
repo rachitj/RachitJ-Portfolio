@@ -2,7 +2,7 @@
 Hi , I am Rachit Jauhari. I am a Senior Data Engineer. This is my portfolio where I am listing my Data Engineering passion projects. 
 I have worked as a Senior Data Engineer in my recent roles where I worked closely with technology and Business. 
 Connecting dots to show how, why and when a problem has occurred, and providing strategic and automated solutions for these challenges is my asset.
-My goal for 2023 is to contribute more to Github open source projects.
+My goal for 2025 is to contribute more to Github open source projects.
 
 
 # Core Comptetencies : 
