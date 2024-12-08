@@ -30,10 +30,12 @@ My goal for 2025 is to contribute more to Github open source projects.
 # Passion Projects : Data Engineering
 ## Project 1 : Terraform Azure Deployment with Budget Alert
 This project uses Terraform to automate the deployment of resources on Azure, including setting up a budget alert to monitor and control Azure spending. It's designed to provide a simple and efficient way to manage and provision cloud infrastructure.
+Tech Stack: Azure, Terraform
 [Please click here for github repository](https://github.com/rachitj/cicd_terraform_azure)
 
 ## Project 2 :NYC CITYBIKE ANALYSIS
 The objective of this project is to do a deep dive analysis on citybike data to come up with solutions and projected revenue impact, or alternatively investigate ways to reduce expenses.
+Tech Stack: Python, SQL Server, Tableau
 [Please click here for github repository](https://github.com/rachitj/nyc_citybike_analysyis)
 
 
